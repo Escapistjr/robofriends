@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 200;
+  color: #0ccac4;
+}
+
+.header {
+  height: 150px;
+}
+
+.scrollContent {
+  overflow-y: scroll;
+  height: calc(100vh - 190px);
+}
